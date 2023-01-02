@@ -1,0 +1,10 @@
+UP: /any/subghz/Gas_Sign/Up_gas.sub
+DOWN: /any/subghz/Gas_Sign/Down_gas.sub
+LEFT: /any/subghz/Handicap/handicap_push_door.sub
+RIGHT: /any/subghz/Remote_Outlet_Switches/Powerfix_RCB-I_3600R/Off_Outlet.sub
+OK: /any/subghz/LED/RGB_LED_Lamp/power.sub
+ULABEL: COMINGSOON
+DLABEL: COMINGSOON
+LLABEL: HandicapPushDoor
+RLABEL: OutletOFF
+OKLABEL: GenericLEDpower
