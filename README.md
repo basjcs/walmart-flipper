@@ -1,3 +1,5 @@
+#THIS PROJECT IS A WORK IN PROGRESS!
+
 Hello, This is my custom made repository consisting infared remotes and other tools that are meant to be an all in one pack consisting of all the resources you need
 to flip devices commonly found in stores like Walmart. 
 
